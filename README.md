@@ -33,11 +33,6 @@ npm run dev
 
 浏览器打开 `http://localhost:5173` 即可使用。首次使用可点击顶部「◆ 加载示例数据」体验内置的考研数学示例。
 
-### 构建为静态页面部署
-
-```bash
-npm run build
-# 产物在 dist/ 目录，可直接托管到任意静态文件服务（GitHub Pages、Vercel、Nginx 等）
 ```
 
 ### 技术栈
