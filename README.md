@@ -21,8 +21,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/arivenYasin/kgraph-review.git
-cd kgraph-review
+git clone https://github.com/arivenYasin/MisNotebook.git
+cd Misnotebook
 
 # 安装依赖
 npm install
