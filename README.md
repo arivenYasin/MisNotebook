@@ -70,7 +70,6 @@ src/
   App.jsx                   # 入口包装（<KnowledgeGraphApp />）
   main.jsx                  # React 挂载点
 requirements.md             # 原始需求文档，含完整算法设计意图
-CLAUDE.md                   # AI 辅助开发说明文档
 ```
 
 > 项目目前为单文件架构（所有逻辑在 `knowledge-graph-app.jsx`），便于快速迭代。如需大规模重构，建议先拆分为独立的 hooks、components、utils 目录。
